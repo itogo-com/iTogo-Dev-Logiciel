@@ -14,6 +14,8 @@ Fournir des ressources, projets, tutoriels, outils et une plateforme de collabor
 - Outils : Git, VS Code, Docker...
 
 ## 📁 Structure du dépôt
+<img width="369" height="475" alt="image" src="https://github.com/user-attachments/assets/db62d2b0-a7ff-44f5-8926-f5bbcb459fa3" />
+
 
 - `projets/` : Projets réalisés par la communauté
 - `ressources/` : E-books, outils, liens utiles
