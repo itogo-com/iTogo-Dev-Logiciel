@@ -57,7 +57,8 @@ npm install --save-dev nodemon
 
 #### Qu'est-ce que Node.js ?
 
-**Node.js** est un runtime JavaScript qui permet d'exécuter du code JavaScript côté serveur. Il utilise le moteur V8 de Chrome.
+**Node.js** est un runtime JavaScript qui permet d'exécuter du code
+JavaScript côté serveur. Il utilise le moteur V8 de Chrome.
 
 #### Avantages de Node.js
 
@@ -69,7 +70,7 @@ npm install --save-dev nodemon
 
 #### Architecture Node.js
 
-```
+```bash
 ┌─────────────────┐
 │   Application   │
 ├─────────────────┤
@@ -171,7 +172,8 @@ npm start
 
 #### Qu'est-ce qu'Express ?
 
-**Express** est un framework web minimaliste et flexible pour Node.js qui simplifie la création d'applications web et d'APIs.
+**Express** est un framework web minimaliste et flexible pour Node.js
+qui simplifie la création d'applications web et d'APIs.
 
 #### Concepts clés d'Express
 
@@ -664,7 +666,7 @@ router.put("/:id", validateUser, (req, res) => {
 - [Tests avec Jest](https://jestjs.io/)
 - [Déploiement sur Heroku](https://devcenter.heroku.com/)
 
-## 🎉 Félicitations 
+## 🎉 Félicitations
 
 Vous avez créé votre première API Node.js ! Voici ce que vous avez appris :
 
@@ -685,6 +687,6 @@ Vous avez créé votre première API Node.js ! Voici ce que vous avez appris :
 
 ---
 
-**💡 Conseil** : Pratiquez en créant des APIs pour vos projets personnels !
+**💡 Conseil** : Pratiquez en créant des APIs pour vos projets personnels
 
-**🤝 Besoin d'aide ?** Rejoignez la communauté iTogo sur Discord ou GitHub !
+**🤝 Besoin d'aide ?** Rejoignez la communauté iTogo sur Discord ou GitHub
