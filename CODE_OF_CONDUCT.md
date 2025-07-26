@@ -1,4 +1,4 @@
-### CODE_OF_CONDUCT.md
+# CODE_OF_CONDUCT.md
 
 # Code de Conduite
 
@@ -9,4 +9,4 @@ Tous les membres doivent :
 - Favoriser l'entraide et la bienveillance
 - Signaler tout comportement inapproprié
 
-Contact : itogo.community@gmail.com
+Contact : [itogo.community@gmail.com](mailto:itogo.community@gmail.com)
