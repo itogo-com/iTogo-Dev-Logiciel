@@ -1,6 +1,6 @@
 # CODE_OF_CONDUCT.md
 
-# Code de Conduite
+## Code de Conduite
 
 Tous les membres doivent :
 
