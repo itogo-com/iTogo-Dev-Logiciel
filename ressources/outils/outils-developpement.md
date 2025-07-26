@@ -4,21 +4,21 @@
 
 ## 📋 Table des matières
 
-- [Éditeurs de code](#éditeurs-de-code)
-- [Terminaux](#terminaux)
-- [Outils de design](#outils-de-design)
-- [Bases de données](#bases-de-données)
-- [Outils de déploiement](#outils-de-déploiement)
-- [Outils de collaboration](#outils-de-collaboration)
-- [Outils de test](#outils-de-test)
-- [Outils de performance](#outils-de-performance)
+- [Éditeurs de code](#💻-éditeurs-de-code)
+- [Terminaux](#🖥️-terminaux)
+- [Outils de design](#🎨-outils-de-design)
+- [Bases de données](#🗄️-bases-de-données)
+- [Outils de déploiement](#🚀-outils-de-déploiement)
+- [Outils de collaboration](#👥-outils-de-collaboration)
+- [Outils de test](#🧪-outils-de-test)
+- [Outils de performance](#⚡-outils-de-performance)
 
 ## 💻 Éditeurs de code
 
 ### 🥇 **VS Code** (Recommandé)
 
 - **Gratuit** et open source
-- **Extensions** : React,Git, <!-- Python,  --> etc.
+- **Extensions** : React,Git, Python,... etc.
 - **Intégration Git** native
 - **Terminal intégré**
 - **Débogueur** puissant
@@ -218,12 +218,12 @@
 - **pnpm** : Gestionnaire de paquets rapide
 - **nodemon** : Redémarrage automatique
 
-<!-- ### **Python**
+### **Python**
 
 - **pip** : Gestionnaire de paquets
 - **virtualenv** : Environnements virtuels
 - **Django** : Framework web
-- **Flask** : Micro-framework -->
+- **Flask** : Micro-framework
 
 ## 📱 Outils mobile
 
@@ -286,25 +286,23 @@
 
 - **Un outil par tâche** : Évitez la surcharge
 - **Documentation** : Gardez des notes sur vos outils
-- **Formation** : Prenez le temps d'apprendre chaque outil
-- **Communauté** : Rejoignez les communautés des outils
+
+* **Formation** : Prenez le temps d'apprendre chaque outil
+* **Communauté** : Rejoignez les communautés des outils
 
 ### **Productivité**
 
-- **Raccourcis clavier** : Apprenez-les par cœur
-- **Extensions** : Utilisez-les avec modération
-- **Automatisation** : Scriptez les tâches répétitives
-- **Backup** : Sauvegardez vos configurations
-
----
+* **Raccourcis clavier** : Apprenez-les par cœur
+* **Extensions** : Utilisez-les avec modération
+* **Automatisation** : Scriptez les tâches répétitives
+* **Backup** : Sauvegardez vos configurations
 
 ## 🆘 Besoin d'aide ?
 
-- **Documentation officielle** : Toujours la première ressource
-- **Communautés** : Stack Overflow, Reddit, Discord
-- **Tutoriels** : YouTube, blogs techniques
-- **Formation** : Cours en ligne, bootcamps
+* **Documentation officielle** : Toujours la première ressource
+* **Communautés** : Stack Overflow, Reddit, Discord
+* **Tutoriels** : YouTube, blogs techniques
+* **Formation** : Cours en ligne, bootcamps
 
----
-
-**💡 Conseil** : Commencez par maîtriser un outil avant d'en apprendre un autre. La qualité prime sur la quantité !
+**💡 Conseil** : Commencez par maîtriser un outil avant d'en apprendre un autre.
+La qualité prime sur la quantité !
