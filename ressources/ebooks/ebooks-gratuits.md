@@ -1,6 +1,7 @@
 # 📚 E-books Gratuits - iTogo Dev Logiciel
 
-> **Collection d'e-books gratuits** pour apprendre le développement web, mobile et desktop
+> **Collection d'e-books gratuits** pour apprendre le développement
+web, mobile et desktop
 
 ## 📋 Table des matières
 
