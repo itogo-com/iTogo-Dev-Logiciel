@@ -1,6 +1,8 @@
 # 🤝 Guide de Contribution - iTogo Développement Logiciel
 
-Merci de votre intérêt pour contribuer à la communauté **iTogo Développement Logiciel** ! Ce guide vous aidera à participer efficacement au projet.
+Merci de votre intérêt
+pour contribuer à la communauté **iTogo Développement Logiciel**
+Ce guide vous aidera à participer efficacement au projet.
 
 ## 📋 Table des matières
 
@@ -333,11 +335,15 @@ Exercices pratiques pour s'entraîner
 
 ## 🎉 Merci !
 
-Merci de contribuer à faire de **iTogo Développement Logiciel** une communauté d'apprentissage exceptionnelle !
+Merci de contribuer à faire de **iTogo Développement Logiciel**
+une communauté d'apprentissage exceptionnelle !
 
-Votre contribution, même petite, fait une grande différence pour les développeurs togolais et africains.
+Votre contribution, même petite,
+fait une grande différence pour les développeurs togolais et africains.
 
 ---
 
-**💡 Conseil** : Commencez par des contributions simples comme corriger une faute de frappe ou améliorer la documentation. Chaque contribution compte !
+**💡 Conseil** : Commencez par des contributions simples comme
+corriger une faute de frappe ou améliorer la documentation.
+Chaque contribution compte !
 ```
