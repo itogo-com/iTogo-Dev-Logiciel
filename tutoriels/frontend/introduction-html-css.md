@@ -493,7 +493,7 @@ Utilisez CSS pour ajouter des animations :
 - [CSS Variables](https://developer.mozilla.org/fr/docs/Web/CSS/Using_CSS_custom_properties)
 - [Responsive Design](https://developer.mozilla.org/fr/docs/Learn/CSS/CSS_layout/Responsive_Design)
 
-## 🎉 Félicitations 
+## 🎉 Félicitations
 
 Vous avez créé votre premier site web ! Voici ce que vous avez appris :
 
