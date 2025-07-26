@@ -4,14 +4,14 @@
 
 ## 📋 Table des matières
 
-- [Éditeurs de code](#💻-éditeurs-de-code)
-- [Terminaux](#🖥️-terminaux)
-- [Outils de design](#🎨-outils-de-design)
-- [Bases de données](#🗄️-bases-de-données)
-- [Outils de déploiement](#🚀-outils-de-déploiement)
-- [Outils de collaboration](#👥-outils-de-collaboration)
-- [Outils de test](#🧪-outils-de-test)
-- [Outils de performance](#⚡-outils-de-performance)
+- [Éditeurs de code](#-éditeurs-de-code)
+- [Terminaux](#-terminaux)
+- [Outils de design](#-outils-de-design)
+- [Bases de données](#-bases-de-données)
+- [Outils de déploiement](#-outils-de-déploiement)
+- [Outils de collaboration](#-outils-de-collaboration)
+- [Outils de test](#-outils-de-test)
+- [Outils de performance](#-outils-de-performance)
 
 ## 💻 Éditeurs de code
 
@@ -35,14 +35,12 @@
 - `Live Server`
 - `Thunder Client`
 
-
 ### 🥈 **Cursor** (Payant)
 
 - **IDE complet** pour JavaScript
 - **Intégration** React, Vue, Angular
 - **Débogage** avancé
 - **Refactoring** intelligent
-
 
 ## 🖥️ Terminaux
 
