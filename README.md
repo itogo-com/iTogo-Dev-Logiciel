@@ -5,11 +5,14 @@
 [![GitHub stars](https://img.shields.io/github/stars/itogo-com/iTogo-Dev-Logiciel.svg?style=social&label=Star)](https://github.com/itogo-com/iTogo-Dev-Logiciel)
 [![GitHub forks](https://img.shields.io/github/forks/itogo-com/iTogo-Dev-Logiciel.svg?style=social&label=Fork)](https://github.com/itogo-com/iTogo-Dev-Logiciel)
 
-> **Plateforme communautaire** pour les passionnés de développement logiciel au Togo et en Afrique
+> **Plateforme communautaire** pour les passionnés de développement logiciel
+au Togo et en Afrique
 
 ## 🎯 Mission
 
-Fournir une **plateforme d'apprentissage collaborative** avec des ressources, projets, tutoriels et outils pour développer les compétences en développement logiciel (web, mobile, desktop) au Togo et en Afrique.
+Fournir une **plateforme d'apprentissage collaborative** avec des ressources, projets, tutoriels
+et outils pour développer les compétences en développement logiciel (web, mobile, desktop)
+au Togo et en Afrique.
 
 ## 🌟 Pourquoi iTogo Dev Logiciel ?
 
