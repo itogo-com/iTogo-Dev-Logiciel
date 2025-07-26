@@ -664,7 +664,7 @@ router.put("/:id", validateUser, (req, res) => {
 - [Tests avec Jest](https://jestjs.io/)
 - [Déploiement sur Heroku](https://devcenter.heroku.com/)
 
-## 🎉 Félicitations !
+## 🎉 Félicitations 
 
 Vous avez créé votre première API Node.js ! Voici ce que vous avez appris :
 
