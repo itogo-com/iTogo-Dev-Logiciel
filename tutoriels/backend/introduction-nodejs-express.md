@@ -226,8 +226,7 @@ app.delete("/users/:id", (req, res) => {
 
 #### 1. Structure du projet
 
-```
-bash
+```bash
 mon-api-nodejs/
 ├── server.js          # Point d'entrée
 ├── routes/
