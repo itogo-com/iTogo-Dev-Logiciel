@@ -287,22 +287,22 @@
 - **Un outil par tâche** : Évitez la surcharge
 - **Documentation** : Gardez des notes sur vos outils
 
-* **Formation** : Prenez le temps d'apprendre chaque outil
-* **Communauté** : Rejoignez les communautés des outils
+- **Formation** : Prenez le temps d'apprendre chaque outil
+- **Communauté** : Rejoignez les communautés des outils
 
 ### **Productivité**
 
-* **Raccourcis clavier** : Apprenez-les par cœur
-* **Extensions** : Utilisez-les avec modération
-* **Automatisation** : Scriptez les tâches répétitives
-* **Backup** : Sauvegardez vos configurations
+- **Raccourcis clavier** : Apprenez-les par cœur
+- **Extensions** : Utilisez-les avec modération
+- **Automatisation** : Scriptez les tâches répétitives
+- **Backup** : Sauvegardez vos configurations
 
 ## 🆘 Besoin d'aide ?
 
-* **Documentation officielle** : Toujours la première ressource
-* **Communautés** : Stack Overflow, Reddit, Discord
-* **Tutoriels** : YouTube, blogs techniques
-* **Formation** : Cours en ligne, bootcamps
+- **Documentation officielle** : Toujours la première ressource
+- **Communautés** : Stack Overflow, Reddit, Discord
+- **Tutoriels** : YouTube, blogs techniques
+- **Formation** : Cours en ligne, bootcamps
 
 **💡 Conseil** : Commencez par maîtriser un outil avant d'en apprendre un autre.
 La qualité prime sur la quantité !
