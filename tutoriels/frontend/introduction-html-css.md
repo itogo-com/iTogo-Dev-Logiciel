@@ -96,7 +96,10 @@ Dans VS Code, créez un fichier `index.html` :
 
       <section id="apropos">
         <h2>À propos</h2>
-        <p>Je suis un développeur web en formation, passionné par la création de sites web.</p>
+        <p>
+            Je suis un développeur web en formation, passionné par
+            la création de sites web.
+        </p>
         <p>J'apprends actuellement :</p>
         <ul>
           <li>HTML pour la structure</li>
@@ -508,6 +511,7 @@ Vous avez créé votre premier site web ! Voici ce que vous avez appris :
 
 ---
 
-**💡 Conseil** : Pratiquez régulièrement ! Créez de petits projets pour consolider vos connaissances.
+**💡 Conseil** : Pratiquez régulièrement !  
+Créez de petits projets pour consolider vos connaissances.
 
 **🤝 Besoin d'aide ?** Rejoignez la communauté iTogo sur Discord ou GitHub !
