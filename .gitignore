@@ -1,7 +1,29 @@
+# Ignorez tous les fichiers dans le répertoire Node_Modules
 node_modules/
+
+# Ignorez tous les fichiers dans le répertoire DIST
 dist/
+
+# Ignorez tous les fichiers du répertoire .env
 .env
+.env.local
+.env.development
+.env.production
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Ignorez tous les fichiers dans le répertoire .log
 *.log
+
+# Ignorez tous les fichiers dans le répertoire .DS_Store
 *.DS_Store
+
+# Ignorez tous les fichiers dans le répertoire .idea
 .idea/
+
+# Ignorez tous les fichiers dans le répertoire .vscode
 .vscode/
+
+# Ignorez tous les fichiers dans le répertoire .gitignore
+.gitignore

@@ -1,0 +1,104 @@
+{
+  "name": "itogo-dev-logiciel",
+  "version": "1.0.0",
+  "description": "Plateforme communautaire pour les passionnés de développement logiciel au Togo et en Afrique",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "jest",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "format": "prettier --write .",
+    "docs:dev": "docsify serve docs",
+    "build": "echo 'Build process completed'",
+    "deploy": "echo 'Deployment process completed'"
+  },
+  "keywords": [
+    "itogo",
+    "development",
+    "logiciel",
+    "togo",
+    "africa",
+    "community",
+    "learning",
+    "tutorials",
+    "resources",
+    "projects"
+  ],
+  "author": "iTogo Community",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itogo-com/iTogo-Dev-Logiciel.git"
+  },
+  "bugs": {
+    "url": "https://github.com/itogo-com/iTogo-Dev-Logiciel/issues"
+  },
+  "homepage": "https://github.com/itogo-com/iTogo-Dev-Logiciel#readme",
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=8.0.0"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "helmet": "^7.1.0",
+    "morgan": "^1.10.0",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1",
+    "jest": "^29.7.0",
+    "eslint": "^8.54.0",
+    "prettier": "^3.1.0",
+    "markdownlint-cli": "^0.37.0",
+    "docsify-cli": "^4.4.4"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "collectCoverageFrom": [
+      "**/*.{js,jsx}",
+      "!**/node_modules/**",
+      "!**/coverage/**"
+    ]
+  },
+  "eslintConfig": {
+    "env": {
+      "browser": true,
+      "es2021": true,
+      "node": true
+    },
+    "extends": [
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "ecmaVersion": "latest",
+      "sourceType": "module"
+    },
+    "rules": {
+      "indent": ["error", 2],
+      "linebreak-style": ["error", "unix"],
+      "quotes": ["error", "single"],
+      "semi": ["error", "always"]
+    }
+  },
+  "prettier": {
+    "semi": true,
+    "trailingComma": "es5",
+    "singleQuote": true,
+    "printWidth": 80,
+    "tabWidth": 2
+  },
+  "contributors": [
+    {
+      "name": "iTogo Community",
+      "email": "contact@itogo.com",
+      "url": "https://github.com/itogo-com"
+    }
+  ],
+  "funding": {
+    "type": "individual",
+    "url": "https://github.com/sponsors/itogo-com"
+  }
+}
