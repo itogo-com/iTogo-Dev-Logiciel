@@ -10,9 +10,9 @@ au Togo et en Afrique
 
 ## 🎯 Mission
 
-Fournir une **plateforme d'apprentissage collaborative** avec des ressources, projets, tutoriels
-et outils pour développer les compétences en développement logiciel (web, mobile, desktop)
-au Togo et en Afrique.
+Fournir une **plateforme d'apprentissage collaborative** avec des ressources, projets,
+tutoriels et outils pour développer les compétences en développement
+logiciel (web, mobile, desktop) au Togo et en Afrique.
 
 ## 🌟 Pourquoi iTogo Dev Logiciel ?
 
@@ -28,11 +28,13 @@ au Togo et en Afrique.
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-<!-- ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) -->
+<!-- ![Vue.js](https://img.shields.io/badge/Vue.js-35495E
+?style=for-the-badge&logo=vue.js&logoColor=4FC08D) -->
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<!-- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) -->
+<!-- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC
+?style=for-the-badge&logo=typescript&logoColor=white) -->
 
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ! [CSS]
@@ -41,16 +43,20 @@ au Togo et en Afrique.
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-<!-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) -->
+<!-- ![Python](https://img.shields.io/badge/Python-3776AB
+?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4
+?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00
+?style=for-the-badge&logo=openjdk&logoColor=white) -->
 
 ### 📱 Mobile
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-<!-- ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) -->
+<!-- ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5
+?style=for-the-badge&logo=kotlin&logoColor=white) -->
 
 ### 🛠️ Outils
 
@@ -58,7 +64,8 @@ au Togo et en Afrique.
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-007ACC?style=for-the-badge&logo=cursor&logoColor=white)
 
-<!-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) -->
+<!-- ![Docker](https://img.shields.io/badge/Docker-2496ED
+?style=for-the-badge&logo=docker&logoColor=white) -->
 
 ## 📁 Structure du projet
 
@@ -189,13 +196,12 @@ Nous accueillons **toutes les contributions** ! Que vous soyez débutant ou expe
 
 ### 🌐 Applications Web
 
-<!-- - [ ] **Portfolio Builder** : Créateur de portfolios en ligne -->
-
+ -[ ] **Portfolio Builder** : Créateur de portfolios en ligne
 - [ ] **E-commerce Template** : Template d'e-commerce complet
 - [ ] **Blog Platform** : Plateforme de blog moderne
 - [ ] **Task Manager** : Gestionnaire de tâches collaboratif
 
-<!--### 📱 Applications Mobile
+### 📱 Applications Mobile
 
 - [ ] **Weather App** : Application météo avec API
 - [ ] **Todo App** : Gestionnaire de tâches mobile
@@ -207,7 +213,7 @@ Nous accueillons **toutes les contributions** ! Que vous soyez débutant ou expe
  - [ ] **File Manager** : Gestionnaire de fichiers
 - [ ] **Note Taking App** : Application de prise de notes
 - [ ] **Password Manager** : Gestionnaire de mots de passe
-- [ ] **System Monitor** : Moniteur système -->
+- [ ] **System Monitor** : Moniteur système
 
 ## 🌍 Communauté
 
