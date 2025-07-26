@@ -1,9 +1,5 @@
+### CODE_OF_CONDUCT.md
 
----
-
-### ✅ `CODE_OF_CONDUCT.md`
-
-```md
 # Code de Conduite
 
 Tous les membres doivent :

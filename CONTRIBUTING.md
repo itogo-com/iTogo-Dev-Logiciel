@@ -4,13 +4,13 @@ Merci de votre intérêt pour contribuer à la communauté **iTogo Développemen
 
 ## 📋 Table des matières
 
-- [Comment contribuer](#comment-contribuer)
-- [Structure du projet](#structure-du-projet)
-- [Standards de code](#standards-de-code)
-- [Processus de contribution](#processus-de-contribution)
-- [Conventions de nommage](#conventions-de-nommage)
-- [Tests et qualité](#tests-et-qualité)
-- [Documentation](#documentation)
+- [Comment contribuer] (#comment-contribuer)
+- [Structure du projet] (#structure-du-projet)
+- [Standards de code] (#standards-de-code)
+- [Processus de contribution] (#processus-de-contribution)
+- [Conventions de nommage] (#conventions-de-nommage)
+- [Tests et qualité] (#tests-et-qualité)
+- [Documentation] (#documentation)
 
 ## 🎯 Comment contribuer
 
@@ -32,21 +32,21 @@ Merci de votre intérêt pour contribuer à la communauté **iTogo Développemen
 
 ## 📁 Structure du projet
 
-```
+``` bash
 iTogo-Dev-Logiciel/
-├── projets/          # Projets réalisés par la communauté
-│   ├── web/          # Applications web
-│   ├── mobile/       # Applications mobiles
-│   └── desktop/      # Applications desktop
-├── ressources/        # Ressources éducatives
-│   ├── cours/        # Cours et formations
-│   ├── ebooks/       # Livres électroniques
-│   └── outils/       # Outils de développement
-├── tutoriels/        # Guides d'apprentissage
-│   ├── frontend/     # Tutoriels frontend
-│   ├── backend/      # Tutoriels backend
-│   └── fullstack/    # Tutoriels fullstack
-└── .github/          # Configuration GitHub
+├── projets/        # Projets réalisés par la communauté
+│   ├── web/        # Applications web
+│   ├── mobile/     # Applications mobiles
+│   └── desktop/    # Applications desktop
+├── ressources/     # Ressources éducatives
+│   ├── cours/      # Cours et formations
+│   ├── ebooks/     # Livres électroniques
+│   └── outils/     # Outils de développement
+├── tutoriels/      # Guides d'apprentissage
+│   ├── frontend/   # Tutoriels frontend
+│   ├── backend/    # Tutoriels backend
+│   └── fullstack/  # Tutoriels fullstack
+└── .github/        # Configuration GitHub
 ```
 
 ## 💻 Standards de code
@@ -55,13 +55,13 @@ iTogo-Dev-Logiciel/
 
 #### Frontend
 
-- **HTML** 
+- **HTML**
 - **CSS**
 - **JavaScript**
 - **React** (avec Next.js ou Vite)
 <!-- - **Vue.js** (avec Nuxt.js) -->
 <!-- - **JavaScript/TypeScript** -->
-**JavaScript**
+- **JavaScript**
 - **TailwindCSS** pour le styling
 - **Shadcn/ui** ou **Radix UI** pour les composants
 
@@ -184,7 +184,7 @@ git push origin feature/nom-de-votre-feature
 
 Utilisez le format **Conventional Commits** :
 
-```
+``` bash
 type(scope): description
 
 [body optionnel]
@@ -285,7 +285,7 @@ Exercices pratiques pour s'entraîner
 - Liens utiles
 - Documentation officielle
 
-```
+```bash
 
 ## 🤝 Code de conduite
 
@@ -341,4 +341,3 @@ Votre contribution, même petite, fait une grande différence pour les développ
 
 **💡 Conseil** : Commencez par des contributions simples comme corriger une faute de frappe ou améliorer la documentation. Chaque contribution compte !
 ```
-

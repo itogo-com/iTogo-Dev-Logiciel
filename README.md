@@ -24,15 +24,20 @@ Fournir une **plateforme d'apprentissage collaborative** avec des ressources, pr
 ### 🌐 Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 <!-- ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) -->
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 <!-- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) -->
+
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-! [CSS Modules](https://img.shields.io/badge/CSS_Modules-007ACC?style=for-the-badge&logo=css-modules&logoColor=white)
+! [CSS]
 
 ### ⚙️ Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
 <!-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) -->
@@ -41,6 +46,7 @@ Fournir une **plateforme d'apprentissage collaborative** avec des ressources, pr
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
 <!-- ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) -->
 
 ### 🛠️ Outils
@@ -48,11 +54,12 @@ Fournir une **plateforme d'apprentissage collaborative** avec des ressources, pr
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-007ACC?style=for-the-badge&logo=cursor&logoColor=white)
+
 <!-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) -->
 
 ## 📁 Structure du projet
 
-```
+```bash
 iTogo-Dev-Logiciel/
 ├── 📂 projets/              # Projets réalisés par la communauté
 │   ├── 🌐 web/             # Applications web (React, Vue, etc.)
@@ -83,14 +90,14 @@ iTogo-Dev-Logiciel/
 
 ### Installation
 
-1. **Cloner le repository**
+1.**Cloner le repository**
 
 ```bash
 git clone https://github.com/itogo-com/iTogo-Dev-Logiciel.git
 cd iTogo-Dev-Logiciel
 ```
 
-2. **Explorer la structure**
+2.**Explorer la structure**
 
 ```bash
 # Voir les tutoriels disponibles
@@ -103,7 +110,7 @@ ls ressources/
 ls projets/
 ```
 
-3. **Commencer à contribuer**
+3.**Commencer à contribuer**
 
 ```bash
 # Créer une branche pour votre contribution
@@ -180,6 +187,7 @@ Nous accueillons **toutes les contributions** ! Que vous soyez débutant ou expe
 ### 🌐 Applications Web
 
 <!-- - [ ] **Portfolio Builder** : Créateur de portfolios en ligne -->
+
 - [ ] **E-commerce Template** : Template d'e-commerce complet
 - [ ] **Blog Platform** : Plateforme de blog moderne
 - [ ] **Task Manager** : Gestionnaire de tâches collaboratif
@@ -189,9 +197,9 @@ Nous accueillons **toutes les contributions** ! Que vous soyez débutant ou expe
 - [ ] **Weather App** : Application météo avec API
 - [ ] **Todo App** : Gestionnaire de tâches mobile
 - [ ] **News Reader** : Lecteur de nouvelles
-- [ ] **Fitness Tracker** : Suivi d'activités physiques 
+- [ ] **Fitness Tracker** : Suivi d'activités physiques
 
- ### 💻 Applications Desktop 
+ ### 💻 Applications Desktop
 
  - [ ] **File Manager** : Gestionnaire de fichiers
 - [ ] **Note Taking App** : Application de prise de notes
@@ -203,7 +211,7 @@ Nous accueillons **toutes les contributions** ! Que vous soyez débutant ou expe
 ### 📱 Rejoignez-nous
 
 - **Discord** : [Serveur iTogo](https://discord.gg/itogo)
-- **WhatsApp** : Groupe de discussion 
+- **WhatsApp** : Groupe de discussion
 - **LinkedIn** : [Page LinkedIn](https://linkedin.com/company/itogo)
 <!-- - **Twitter** : [@iTogoDev](https://twitter.com/iTogoDev) -->
 
@@ -253,13 +261,7 @@ Un grand merci à tous les **contributeurs** qui rendent ce projet possible :
 
 **💡 Conseil** : Commencez par les tutoriels pour débutants, puis progressez vers des projets plus complexes !
 
----
-
-<div align="center">
-
-**🌟 Fait avec ❤️ par la communauté iTogo**
+### 🌟 Fait avec ❤️ par la communauté iTogo
 
 [![GitHub stars](https://img.shields.io/github/stars/itogo-com/iTogo-Dev-Logiciel.svg?style=social&label=Star)](https://github.com/itogo-com/iTogo-Dev-Logiciel)
 [![GitHub forks](https://img.shields.io/github/forks/itogo-com/iTogo-Dev-Logiciel.svg?style=social&label=Fork)](https://github.com/itogo-com/iTogo-Dev-Logiciel)
-
-</div>
